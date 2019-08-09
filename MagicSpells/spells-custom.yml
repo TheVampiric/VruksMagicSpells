@@ -1,1 +1,7 @@
-jh
+Fire_particle:
+	spell-class: ".instant.FireSpell"
+	name: Fire!
+	description: just a fire particle
+	cast-item: feather
+	
+
